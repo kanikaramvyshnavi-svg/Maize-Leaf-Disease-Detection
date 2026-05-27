@@ -110,12 +110,13 @@ Maize-Leaf-Disease-Detection/
 ├── dataset/
 ├── models/
 ├── app.py
-├── requirements.txt
+├── static
+    templates
 ├── README.md
 ```
 
 ---
 
 ## GitHub Repository
-https://github.com/kanikaramvyshnavi-svg/Maize Leaf Disease Detection 
+https://github.com/kanikaramvyshnavi-svg
 
