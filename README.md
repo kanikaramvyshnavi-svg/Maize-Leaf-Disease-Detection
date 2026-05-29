@@ -116,6 +116,8 @@ Maize-Leaf-Disease-Detection/
 ```
 
 ---
+Author 
+Kanikaram Vyshnavi
 
 ## GitHub Repository
 https://github.com/kanikaramvyshnavi-svg
